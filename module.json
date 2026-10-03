@@ -2,7 +2,7 @@
   "id": "conversation-hud",
   "title": "ConversationHUD",
   "description": "<p>A simple module that adds a nice HUD that display the portraits of all the characters present in a conversation.</p>",
-  "version": "#{VERSION}#",
+  "version": "6.0.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14",
@@ -68,21 +68,21 @@
     }
   ],
   "socket": true,
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "license": "https://github.com/CristianVasile23/conversation-hud/blob/main/LICENSE",
-  "readme": "https://github.com/CristianVasile23/conversation-hud/blob/main/README.md",
+  "url": "https://github.com/Aomiji/Mika_conversation-hud",
+  "manifest": "https://raw.githubusercontent.com/Aomiji/Mika_conversation-hud/main/module.json",
+  "download": "https://github.com/Aomiji/Mika_conversation-hud/archive/refs/heads/main.zip",
+  "license": "https://github.com/Aomiji/Mika_conversation-hud/blob/main/LICENSE",
+  "readme": "https://github.com/Aomiji/Mika_conversation-hud/blob/main/README.md",
   "media": [
     {
       "type": "setup",
-      "url": "https://raw.githubusercontent.com/CristianVasile23/conversation-hud/main/docs/icons/setup.jpg",
+      "url": "https://raw.githubusercontent.com/Aomiji/Mika_conversation-hud/main/docs/icons/setup.jpg",
       "loop": false,
       "flags": {}
     },
     {
       "type": "cover",
-      "url": "https://raw.githubusercontent.com/CristianVasile23/conversation-hud/main/docs/icons/cover.jpg",
+      "url": "https://raw.githubusercontent.com/Aomiji/Mika_conversation-hud/main/docs/icons/cover.jpg",
       "loop": false,
       "flags": {}
     }
