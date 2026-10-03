@@ -4,9 +4,9 @@
   "description": "<p>A simple module that adds a nice HUD that display the portraits of all the characters present in a conversation.</p>",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13",
-    "maximum": "13"
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -22,22 +22,25 @@
         "id": "lib-wrapper",
         "type": "module",
         "compatibility": {
-          "minimum": "1.12.4.0",
-          "verified": "1.12.13.1"
+          "minimum": "1.13.5.1",
+          "verified": "1.13.5.1"
         }
       },
       {
         "id": "socketlib",
         "type": "module",
         "compatibility": {
-          "minimum": "1.0.10",
-          "verified": "1.0.13"
+          "minimum": "1.1.4",
+          "verified": "1.1.4"
         }
       },
       {
         "id": "lib-dfreds-ui-extender",
         "type": "module",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "2.5.0",
+          "verified": "2.5.0"
+        }
       }
     ]
   },
